@@ -2,13 +2,15 @@
 A web page with a virtual pin pad for a bank
 
 Nom de  l'équipe est KISS
-KISS for keep it it simple stupid: c 'est un principe qui préconise de rechercher la siplicité et d' éviter la complexité. il est utilisé dans le developpememnt informatique et sert comme une règle de bonne pratique.
+KISS for keep it it simple stupid: c 'est un principe qui préconise de rechercher la siMplicité et d' éviter la complexité. il est utilisé dans le developpememnt informatique et sert comme une règle de bonne pratique.
 
 Liste des membres : Mahomed, Glecia, Mohamed Ali, Ida (scrum master)
 
 Git hub est une plateforme collaborative pour développeurs, c'est un espace de stockage de travaux collaboratifs, en quelque sorte un reseau social. Il permet d'échanger nos codes, d 'y apporter des modification et deles améliorer.Cette plateforme permet de reunir les équipes pour trouver des solutions ensemble, faire évoluer les idées tout en s'erichissant. Elle permet de faire une veille technologique tout en découvrant d'autre fonctionnalité.
 
 Repository :c 'st repertoire où sont stocké les fichiers d'un projet informatique. Il préserve tout l'historique des versions du fichier.
+
+Interet de diviser le tavail: organisation for who is doing what , more efficient, going faster, project global vision, first task to do 
 
 Kanban: est un tableau visuel" ou "enseigne" et est un outil pour réduire le temps de cycle d 'un processus. Il permet de  réduire la quantité de tavail en ameliorant la visibilité du flux de processus. C 'est un outil de suivi de l 'avancement d 'un projet : to do , done , in progress. 
 
@@ -18,7 +20,7 @@ A quoi servent les entêtes dans un document HTML: C'est une partie du document 
   
 A quoi sert l’entête « meta viewport »:La balise meta name= "viewport" a été créée pour nous permettre de reprendre le contrôle du viewport et notamment de sa taille et de son échelle afin de proposer la meilleure version de notre site pour les différents appareils.
 L’élément HTML meta est utilisé pour définir des métadonnées pour un document HTML.
-viewport : la valeur passée à content va nous permettre d’indiquer comment le navigateur doit afficher la page sur différents appareils.
+viewport : Permettre d’indiquer comment le navigateur doit afficher la page sur différents appareils.
   
 Pourquoi est-il recommandé d’avoir les styles dans un fichier à part? il est recommandé de placer les styles dans un fichier a part  afin de clairement séparer la présentation du contenu autant que possible.
 
