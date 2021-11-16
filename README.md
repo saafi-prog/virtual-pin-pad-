@@ -16,6 +16,7 @@ Kanban: est un tableau visuel" ou "enseigne" et est un outil pour réduire le te
 
 DOCTYPE:Le doctype est utilisé tout au début du document HTML5 afin que les navigateurs peuvent le gérer avec le mode quirks ou avec l'un des modes standards du Web sont apparus avec le W3C.En HTML5, le seul but du DOCTYPE est d'activer le mode standard total.
 
+
 A quoi servent les entêtes dans un document HTML: C'est une partie du document qui n'est pas affichée par le navigateur au chargement de la page. Elle contient des informations comme le titre (<title>) de la page, des liens aux CSS (si vous souhaitez composer le contenu HTML grâce des CSS), des liens aux favicons et des méta-données (auteur du document, mots-clés décrivant le document, etc.)
   
 A quoi sert l’entête « meta viewport »:La balise meta name= "viewport" a été créée pour nous permettre de reprendre le contrôle du viewport et notamment de sa taille et de son échelle afin de proposer la meilleure version de notre site pour les différents appareils.
@@ -31,4 +32,5 @@ Qu’est-ce qu’un sélecteur CSS ?  Un sélecteur CSS est la partie de la règ
 Qu’est-ce qu’une propriété CSS ? C'est une d éclaration de style dont la valeur détermine la propriété attribué à un sélecteur afin de se comporter selon une certaine apparence.
   
   
-  
+  ![sketch](https://user-images.githubusercontent.com/94375010/141975756-3b57e888-1f6f-4dcc-b5bb-0e2edbea8abf.jpg)
+
