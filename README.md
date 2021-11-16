@@ -31,6 +31,8 @@ Qu’est-ce qu’un sélecteur CSS ?  Un sélecteur CSS est la partie de la règ
   
 Qu’est-ce qu’une propriété CSS ? C'est une d éclaration de style dont la valeur détermine la propriété attribué à un sélecteur afin de se comporter selon une certaine apparence.
   
+SKETCH
   
-  ![sketch](https://user-images.githubusercontent.com/94375010/141975756-3b57e888-1f6f-4dcc-b5bb-0e2edbea8abf.jpg)
+<img src=
+  "https://user-images.githubusercontent.com/94375010/141975756-3b57e888-1f6f-4dcc-b5bb-0e2edbea8abf.jpg" width="200px"> 
 
