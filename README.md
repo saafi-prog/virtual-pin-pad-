@@ -10,7 +10,9 @@ Git hub est une plateforme collaborative pour développeurs, c'est un espace de 
 
 Repository :c 'st repertoire où sont stocké les fichiers d'un projet informatique. Il préserve tout l'historique des versions du fichier.
 
-Interet de diviser le tavail: organisation for who is doing what , more efficient, going faster, project global vision, first task to do 
+Interet de diviser le tavail: organisation for who is doing what , more efficient, going faster, project global vision, first task to do
+
+Besoin: interface contenant une partie input pour code pin de 4 chiffres de 0---->9 et une partie de pavé numérique.
 
 Kanban: est un tableau visuel" ou "enseigne" et est un outil pour réduire le temps de cycle d 'un processus. Il permet de  réduire la quantité de tavail en ameliorant la visibilité du flux de processus. C 'est un outil de suivi de l 'avancement d 'un projet : to do , done , in progress. 
 
@@ -35,4 +37,10 @@ SKETCH
   
 <img src=
   "https://user-images.githubusercontent.com/94375010/141975756-3b57e888-1f6f-4dcc-b5bb-0e2edbea8abf.jpg" width="200px"> 
+
+ Wireframe: du sketch ----> wirframe
+  logiciel utilisé: MockFlow
+  ![wireframe](https://user-images.githubusercontent.com/94375010/141993288-a156d642-1882-4d81-bbe7-fadd444c8f3f.png)
+  
+
 
