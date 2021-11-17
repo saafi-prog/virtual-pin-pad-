@@ -42,7 +42,8 @@ SKETCH
  Wireframe: du sketch ----> wireframe
   logiciel utilisé: MockFlow
   ![wireframe](https://user-images.githubusercontent.com/94375010/141993288-a156d642-1882-4d81-bbe7-fadd444c8f3f.png)
-  cette étape permet d 'illustrer le sketch afin d'avoir une apparence la plus proche possible. c'est une étape qui doit etre validé par le PO avant de passer au maquettage.
+  
+  cette étape permet d'illustrer le sketch afin d'avoir une apparence la plus proche possible. c'est une étape qui doit etre validé par le PO avant de passer au html/css.
   
 
 
