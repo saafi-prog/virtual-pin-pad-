@@ -22,13 +22,13 @@ DOCTYPE:Le doctype est utilisé tout au début du document HTML5 afin que les na
 
 A quoi servent les entêtes :partie du document qui n'est pas affichée par le navigateur . Elle contient  le titre (<title>) de la page, des liens aux CSS , des liens  et des méta-données.
   
-A quoi sert l’entête « meta viewport »:La balise meta name= "viewport" a été créée pour nous permettre de reprendre le contrôle du viewport et notamment de sa taille et de son échelle afin de proposer la meilleure version de notre site pour les différents appareils.
+A quoi sert l’entête « meta viewport »:La balise meta name= "viewport" a été créée pour nous permettre de reprendre le contrôle du viewport et notamment de sa taille pour qu'il soit adaptable aux différents type d'appareils.
 L’élément HTML meta est utilisé pour définir des métadonnées pour un document HTML.
 viewport : Permettre d’indiquer comment le navigateur doit afficher la page sur différents appareils.
   
-Pourquoi est-il recommandé d’avoir les styles dans un fichier à part? sépaer le contenue du style appliqué,  clareté.
+Pourquoi est-il recommandé d’avoir les styles dans un fichier à part? sépaer le contenue du style qui lui est appliqué,  clareté.
 
-Expliquer le modèle de boîtes en CSS :  En CSS, tout élément est inclus dans une boîte.Comprendre le fonctionnement de ces boîtes est essentiel pour maîtriser la mise en page CSS ainsi que le positionement des éléments d'une page HTML.En CSS, il existe deux type de boîtes : les boîtes en bloc et les boites en ligne qui sont appliquées par défaut et suivent le normal flow
+Expliquer le modèle de boîtes en CSS :  En CSS, tout élément est inclus dans une boîte. La Comprehesion  le fonctionnement de ces boîtes est essentiel pour maîtriser la mise en page CSS ainsi que le positionement des éléments d'une page HTML.En CSS, il existe deux type de boîtes : les boîtes en bloc et les boites en ligne qui sont appliquées par défaut et suivent le normal flow
   
 Qu’est-ce qu’un sélecteur CSS ?  désigne les éléments d'un document concernés par la règle css. Les éléments  auront le style spécifié par la règle qui leur est appliqué.
   
@@ -44,6 +44,9 @@ SKETCH
   ![wireframe](https://user-images.githubusercontent.com/94375010/141993288-a156d642-1882-4d81-bbe7-fadd444c8f3f.png)
   
   cette étape permet d'illustrer le sketch afin d'avoir une apparence la plus proche possible. c'est une étape qui doit etre validé par le PO avant de passer au html/css.
+  
+  Liste des principaux liens utilisés pour s’aider à réaliser la maquette HTML/CSS: https://developer.mozilla.org/fr/ , https://www.w3.org/ ,https://css-tricks.com/archives/.
+  
   
 
 
