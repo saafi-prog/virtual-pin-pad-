@@ -28,11 +28,13 @@ viewport : Permettre d’indiquer comment le navigateur doit afficher la page su
   
 Pourquoi est-il recommandé d’avoir les styles dans un fichier à part? sépaer le contenue du style qui lui est appliqué,  clareté.
 
-Expliquer le modèle de boîtes en CSS :  En CSS, tout élément est inclus dans une boîte. La Comprehesion  le fonctionnement de ces boîtes est essentiel pour maîtriser la mise en page CSS ainsi que le positionement des éléments d'une page HTML.En CSS, il existe deux type de boîtes : les boîtes en bloc et les boites en ligne qui sont appliquées par défaut et suivent le normal flow
+Expliquer le modèle de boîtes en CSS :  En CSS, tout élément est inclus dans une boîte. La Comprehesion  le fonctionnement de ces boîtes est essentiel pour maîtriser la mise en page CSS ainsi que le positionement des éléments d'une page HTML.En CSS, il existe deux type de boîtes : les boîtes en bloc et les boites en ligne qui sont appliquées par défaut et suivent le normal flow.
   
 Qu’est-ce qu’un sélecteur CSS ?  désigne les éléments d'un document concernés par la règle css. Les éléments  auront le style spécifié par la règle qui leur est appliqué.
+On peut selectionner un element comme P, une classe avec un .suivi du nom de la classe , un ID avec un #suivi du nom de l'ID, combiner les selecteur et leur attribuer les       propriétées qu'on veut appliquer.
   
-Qu’est-ce qu’une propriété CSS ? C'est une d éclaration de style dont la valeur détermine la propriété attribué à un sélecteur afin de se comporter selon une certaine apparence.
+  
+Qu’est-ce qu’une propriété CSS ? C'est une d éclaration de style dont la valeur détermine la propriété attribué à un sélecteur afin de se comporter selon une certaine apparence comme ue couleur, la taille, le comportement etc...
   
 SKETCH
   
@@ -43,7 +45,7 @@ SKETCH
   logiciel utilisé: MockFlow
   ![wireframe](https://user-images.githubusercontent.com/94375010/141993288-a156d642-1882-4d81-bbe7-fadd444c8f3f.png)
   
-  cette étape permet d'illustrer le sketch afin d'avoir une apparence la plus proche possible. c'est une étape qui doit etre validé par le PO avant de passer au html/css.
+  Cette étape permet d'illustrer le sketch afin d'avoir une apparence la plus proche possible. c'est une étape qui doit etre validé par le PO avant de passer au html/css.
   
   Liste des principaux liens utilisés pour s’aider à réaliser la maquette HTML/CSS: https://developer.mozilla.org/fr/ , https://www.w3.org/ ,https://css-tricks.com/archives/.
   
