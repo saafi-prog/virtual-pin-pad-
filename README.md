@@ -28,7 +28,7 @@ viewport : Permettre d’indiquer comment le navigateur doit afficher la page su
   
 Pourquoi est-il recommandé d’avoir les styles dans un fichier à part? sépaer le contenue du style qui lui est appliqué,  clareté, permet à plusieurs pages d'utiliser le meme style a lieu de les copier à chaque page.
 
-Expliquer le modèle de boîtes en CSS :  En CSS, tout élément est inclus dans une boîte. La Comprehesion  le fonctionnement de ces boîtes est essentiel pour maîtriser la mise en page CSS ainsi que le positionement des éléments d'une page HTML.En CSS, il existe deux type de boîtes : les boîtes en bloc et les boites en ligne qui sont appliquées par défaut et suivent le normal flow.
+Expliquer le modèle de boîtes en CSS :  En CSS, tout élément est inclus dans une boîte. La Comprehesion  le fonctionnement de ces boîtes est essentiel pour maîtriser la mise en page CSS ainsi que le positionement des éléments d'une page HTML.En CSS, il existe deux type de boîtes : les boîtes en bloc et les boites en ligne qui sont appliquées par défaut et suivent le normal flow. On peut les definir par: width, heiht,margin, padding, position.
   
 Qu’est-ce qu’un sélecteur CSS ?  désigne les éléments d'un document concernés par la règle css. Les éléments  auront le style spécifié par la règle qui leur est appliqué.
 On peut selectionner un element comme P, une classe avec un .suivi du nom de la classe , un ID avec un #suivi du nom de l'ID, combiner les selecteur et leur attribuer les       propriétées qu'on veut appliquer.
