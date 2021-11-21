@@ -26,7 +26,7 @@ A quoi sert l’entête « meta viewport »:La balise meta name= "viewport" a 
 L’élément HTML meta est utilisé pour définir des métadonnées pour un document HTML.
 viewport : Permettre d’indiquer comment le navigateur doit afficher la page sur différents appareils.
   
-Pourquoi est-il recommandé d’avoir les styles dans un fichier à part? sépaer le contenue du style qui lui est appliqué,  clareté.
+Pourquoi est-il recommandé d’avoir les styles dans un fichier à part? sépaer le contenue du style qui lui est appliqué,  clareté, permet à plusieurs pages d'utiliser le meme style a lieu de les copier à chaque page.
 
 Expliquer le modèle de boîtes en CSS :  En CSS, tout élément est inclus dans une boîte. La Comprehesion  le fonctionnement de ces boîtes est essentiel pour maîtriser la mise en page CSS ainsi que le positionement des éléments d'une page HTML.En CSS, il existe deux type de boîtes : les boîtes en bloc et les boites en ligne qui sont appliquées par défaut et suivent le normal flow.
   
